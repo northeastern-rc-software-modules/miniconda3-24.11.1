@@ -8,7 +8,7 @@
 module load explorer/1.0
 
 export CLUSTER_DIRECTORY=/shared/EL9/explorer
-export SOFTWARE_NAME=Miniconda
+export SOFTWARE_NAME=miniconda3
 export SOFTWARE_VERSION=24.11.1
 export GITHUB_URL=https://github.com/northeastern-rc-software-modules/miniconda3-24.11.1.git
 
